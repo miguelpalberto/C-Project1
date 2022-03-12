@@ -11,3 +11,5 @@ The aim of the project was to learn:
 -Dynamic Arrays and Dynamic Memory
 -Files
 -Pointers
+
+Codeblocks was the IDE used.
