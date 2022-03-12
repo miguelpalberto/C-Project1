@@ -1,0 +1,1600 @@
+# depslib dependency file v1.0
+1640194078 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.1\1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1640263274 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\funcoesapoio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640265665 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\funcoesconfinamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640266413 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640266622 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\funcoesmembros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640202943 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\funcoestestes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640266163 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\funcoesvacinacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640279802 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640201820 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\estruturas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1640265628 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640288303 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\menus.h
+	"estruturas.h"
+
+1640288739 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\estruturas.h
+
+1640226346 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\funcoesapoio.h
+	"estruturas.h"
+
+1640227036 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\funcoesmembros.h
+	"estruturas.h"
+
+1640202788 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\funcoestestes.h
+	"estruturas.h"
+
+1640263468 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\funcoesvacinacao.h
+	"estruturas.h"
+
+1640286165 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\funcoesconfinamentos.h
+	"estruturas.h"
+
+1640265628 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.2\1.2\funcoesestatisticas.h
+	"estruturas.h"
+
+1640266413 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640288303 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\menus.h
+	"estruturas.h"
+
+1640289108 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\estruturas.h
+
+1640226346 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\funcoesapoio.h
+	"estruturas.h"
+
+1640227036 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\funcoesmembros.h
+	"estruturas.h"
+
+1640202788 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\funcoestestes.h
+	"estruturas.h"
+
+1640263468 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\funcoesvacinacao.h
+	"estruturas.h"
+
+1640289027 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\funcoesconfinamentos.h
+	"estruturas.h"
+
+1640265628 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\funcoesestatisticas.h
+	"estruturas.h"
+
+1640266622 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\funcoesmembros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640202943 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\funcoestestes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640266163 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\funcoesvacinacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640289068 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640288597 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\funcoesapoio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640288370 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\funcoesconfinamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640289040 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.3\1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640304675 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\funcoesapoio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640303660 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\menus.h
+	"estruturas.h"
+
+1640303339 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\estruturas.h
+
+1640226346 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\funcoesapoio.h
+	"estruturas.h"
+
+1640227036 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\funcoesmembros.h
+	"estruturas.h"
+
+1640202788 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\funcoestestes.h
+	"estruturas.h"
+
+1640263468 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\funcoesvacinacao.h
+	"estruturas.h"
+
+1640307188 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\funcoesconfinamentos.h
+	"estruturas.h"
+
+1640265628 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\funcoesestatisticas.h
+	"estruturas.h"
+
+1640304708 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\funcoesconfinamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640266413 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640266622 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\funcoesmembros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640202943 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\funcoestestes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640266163 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\funcoesvacinacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640303339 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640304735 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.2\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640363260 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoesapoio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640303660 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\menus.h
+	"estruturas.h"
+
+1640376451 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\estruturas.h
+
+1640310227 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoesapoio.h
+	"estruturas.h"
+
+1640227036 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoesmembros.h
+	"estruturas.h"
+
+1640202788 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoestestes.h
+	"estruturas.h"
+
+1640263468 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoesvacinacao.h
+	"estruturas.h"
+
+1640375356 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoesconfinamentos.h
+	"estruturas.h"
+
+1640265628 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoesestatisticas.h
+	"estruturas.h"
+
+1640363260 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640363260 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoesmembros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640363260 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoestestes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640363260 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoesvacinacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640377654 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640375373 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640377027 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoesconfinamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640375356 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoesficheiros.h
+	"estruturas.h"
+
+1640377027 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.4\1.4\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641300903 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoesconfinamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641252834 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\menus.h
+	"estruturas.h"
+
+1641261562 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\estruturas.h
+
+1640490608 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoesapoio.h
+	"estruturas.h"
+
+1641300903 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoesficheiros.h
+	"estruturas.h"
+
+1640707107 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoesmembros.h
+	"estruturas.h"
+
+1640987328 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoestestes.h
+	"estruturas.h"
+
+1640263468 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoesvacinacao.h
+	"estruturas.h"
+
+1641255894 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoesconfinamentos.h
+	"estruturas.h"
+
+1640952622 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoesestatisticas.h
+	"estruturas.h"
+
+1640953202 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641300923 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641261428 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoesmembros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641255014 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoestestes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641128149 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoesvacinacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641127580 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\funcoesapoio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641256826 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641261562 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641127580 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoesapoio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641252834 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\menus.h
+	"estruturas.h"
+
+1641261562 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\estruturas.h
+
+1640490608 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoesapoio.h
+	"estruturas.h"
+
+1641300903 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoesficheiros.h
+	"estruturas.h"
+
+1640707107 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoesmembros.h
+	"estruturas.h"
+
+1640987328 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoestestes.h
+	"estruturas.h"
+
+1640263468 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoesvacinacao.h
+	"estruturas.h"
+
+1641255894 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoesconfinamentos.h
+	"estruturas.h"
+
+1640952622 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoesestatisticas.h
+	"estruturas.h"
+
+1641301141 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoesconfinamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1640953202 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641300923 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641261428 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoesmembros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641255014 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoestestes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641128149 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\funcoesvacinacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641261562 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641256826 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.5\1.6\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641127580 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoesapoio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641402245 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\menus.h
+	"estruturas.h"
+
+1641409007 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\estruturas.h
+
+1640490608 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoesapoio.h
+	"estruturas.h"
+
+1641300903 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoesficheiros.h
+	"estruturas.h"
+
+1640707107 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoesmembros.h
+	"estruturas.h"
+
+1641307801 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoestestes.h
+	"estruturas.h"
+
+1640263468 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoesvacinacao.h
+	"estruturas.h"
+
+1641255894 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoesconfinamentos.h
+	"estruturas.h"
+
+1641408501 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoesestatisticas.h
+	"estruturas.h"
+
+1641409007 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoesconfinamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641471127 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641409413 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoesmembros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641409007 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoesvacinacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641408482 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641310126 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641402351 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641409007 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.6\1.6\funcoestestes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641492021 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoesapoio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641402245 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\menus.h
+	"estruturas.h"
+
+1641492037 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\estruturas.h
+
+1640490608 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoesapoio.h
+	"estruturas.h"
+
+1641677451 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoesficheiros.h
+	"estruturas.h"
+
+1641491858 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoesmembros.h
+	"estruturas.h"
+
+1641517728 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoestestes.h
+	"estruturas.h"
+
+1640263468 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoesvacinacao.h
+	"estruturas.h"
+
+1641255894 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoesconfinamentos.h
+	"estruturas.h"
+
+1641521485 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoesestatisticas.h
+	"estruturas.h"
+
+1641519300 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoesconfinamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641522479 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641520921 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoesmembros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641520133 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoestestes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641519300 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoesvacinacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641676961 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641677592 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641677451 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.7\1.7\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642386845 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesapoio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642387427 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\menus.h
+	"estruturas.h"
+
+1642387553 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\estruturas.h
+
+1642386845 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesapoio.h
+	"estruturas.h"
+
+1642292998 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesficheiros.h
+	"estruturas.h"
+
+1641491858 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesmembros.h
+	"estruturas.h"
+
+1642386845 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoestestes.h
+	"estruturas.h"
+
+1640263468 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesvacinacao.h
+	"estruturas.h"
+
+1641255894 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesconfinamentos.h
+	"estruturas.h"
+
+1641697738 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesestatisticas.h
+	"estruturas.h"
+
+1642342184 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesconfinamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642341396 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642294495 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642389725 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesmembros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642421914 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoestestes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641950841 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesvacinacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642387404 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642387825 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641950682 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesprint.h
+	"estruturas.h"
+
+1642179977 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.8\1.8\funcoesprint.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642386845 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesapoio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642387427 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\menus.h
+	"estruturas.h"
+
+1642387553 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\estruturas.h
+
+1642386845 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesapoio.h
+	"estruturas.h"
+
+1642292998 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesficheiros.h
+	"estruturas.h"
+
+1641491858 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesmembros.h
+	"estruturas.h"
+
+1641950682 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesprint.h
+	"estruturas.h"
+
+1642508949 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoestestes.h
+	"estruturas.h"
+
+1640263468 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesvacinacao.h
+	"estruturas.h"
+
+1641255894 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesconfinamentos.h
+	"estruturas.h"
+
+1641697738 c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesestatisticas.h
+	"estruturas.h"
+
+1642342184 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesconfinamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642508156 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesestatisticas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642294495 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642389725 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesmembros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642179977 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesprint.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642509049 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoestestes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1641950841 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\funcoesvacinacao.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642387404 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
+1642387825 source:c:\miguel\trabalhos\engenharia informática licenciatura\1.º ano, 1.º semestre\programação i\projeto\v1.9 final\1.8\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menus.h"
+	"estruturas.h"
+	"funcoesApoio.h"
+	"funcoesFicheiros.h"
+	"funcoesMembros.h"
+	"funcoesPrint.h"
+	"funcoesTestes.h"
+	"funcoesVacinacao.h"
+	"funcoesConfinamentos.h"
+	"funcoesEstatisticas.h"
+
