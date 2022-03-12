@@ -1,5 +1,5 @@
 # C-Project1
-An academic project, using C, to learn its basis. 
+An academic project, using C, to learn it's basis. 
 
 The program allows the "manual" registration of 200 students and teachers of a community, by the user. Then it allows the scheduling and registration of vaccines of those members of the community. It also allows the user to edit the member's data and it shows some defined statistics. (See pdf for the full "briefing")
 
